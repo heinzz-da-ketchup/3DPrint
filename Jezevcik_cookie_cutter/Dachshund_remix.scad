@@ -2,7 +2,7 @@ final ();
 
 module jezevcik () {
     resize (newsize=[95, 0, 0], auto=true) 
-        import("/home/jan/Downloads/Dachshund.stl");
+        import("./Dachshund.stl");
 }
 
 module bez_ucha () {
